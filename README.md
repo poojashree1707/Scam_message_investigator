@@ -40,17 +40,17 @@ The application uses a local AI model to process messages without sending them t
 
 * The application displays the investigation report, including:
 
-Risk Level
+### Risk Level
 
-Message Type
+* Message Type
 
-Summary
+* Summary
 
-Warning Signs
+* Warning Signs
 
-Recommended Safety Actions
+* Recommended Safety Actions
 
-Investigation Limitations
+* Investigation Limitations
 
 ### Risk Classification
 
@@ -76,6 +76,10 @@ Multiple or significant scam indicators detected
 <img width="1850" height="657" alt="Screenshot 2026-10-30 144410" src="https://github.com/user-attachments/assets/7e664f94-6483-4051-9ec6-bbd652a32f76" />
 
 <img width="1843" height="676" alt="Screenshot 2026-10-30 144431" src="https://github.com/user-attachments/assets/c6d847c7-f25d-4bc4-8218-f0657deceacb" />
+
+### Project Link
+
+https://scammessageinvestigator-amlg9z7mmrsyafghsaegth.streamlit.app/
 
 ### Conclusion
 
